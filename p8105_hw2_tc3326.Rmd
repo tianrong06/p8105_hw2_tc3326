@@ -1,0 +1,8 @@
+---
+title: "p8105_hw2_tc3326"
+author: "KK Chen"
+date: "2024-10-02"
+output: github_document
+---
+
+
